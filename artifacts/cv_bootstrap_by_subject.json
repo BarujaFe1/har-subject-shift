@@ -1,0 +1,17 @@
+{
+  "n_subjects": 21,
+  "B": 2000,
+  "seed": 42,
+  "global_macro_f1_ci_95": [
+    0.9004335296424146,
+    0.9663082055103349
+  ],
+  "subject_mean_macro_f1_ci_95": [
+    0.8909741516956718,
+    0.9653702063482146
+  ],
+  "replicates_with_absent_classes": 0,
+  "global_macro_f1": 0.9366428360644736,
+  "subject_mean_macro_f1": 0.9323779923866036,
+  "interpretation": "descriptive conditional on fitted model; sampled subjects are few"
+}

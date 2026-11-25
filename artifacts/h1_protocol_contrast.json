@@ -1,0 +1,12 @@
+{
+  "n_windows": 7352,
+  "n_subjects": 21,
+  "fixed_model": "logistic C=1 (no tuning)",
+  "correct_grouped_macro_f1": 0.9336906256460296,
+  "incorrect_random_window_macro_f1": 0.9854318865469351,
+  "delta_f1_percentage_points": 5.174126090090558,
+  "correct_grouped_ba": 0.9336706932640549,
+  "incorrect_random_window_ba": 0.9854414974207629,
+  "delta_ba_percentage_points": 5.177080415670798,
+  "interpretation": "Protocol contrast within official training set, not a causal leakage estimate"
+}

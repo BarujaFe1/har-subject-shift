@@ -1,0 +1,62 @@
+[
+  {
+    "fold": 1,
+    "macro_f1": 0.8554530540622484,
+    "balanced_accuracy": 0.858231938616988,
+    "n_subjects": 4,
+    "n_windows": 1420,
+    "fit_and_predict_seconds": 49.97084995399928,
+    "params": {
+      "model__C": 10,
+      "model__gamma": "scale"
+    }
+  },
+  {
+    "fold": 2,
+    "macro_f1": 0.9111371968200171,
+    "balanced_accuracy": 0.9120761132287604,
+    "n_subjects": 4,
+    "n_windows": 1420,
+    "fit_and_predict_seconds": 50.93021208299979,
+    "params": {
+      "model__C": 10,
+      "model__gamma": "scale"
+    }
+  },
+  {
+    "fold": 3,
+    "macro_f1": 0.9808175645322862,
+    "balanced_accuracy": 0.9805018897836019,
+    "n_subjects": 4,
+    "n_windows": 1417,
+    "fit_and_predict_seconds": 51.015476147997106,
+    "params": {
+      "model__C": 10,
+      "model__gamma": "scale"
+    }
+  },
+  {
+    "fold": 4,
+    "macro_f1": 0.9409378773187806,
+    "balanced_accuracy": 0.9441001278982268,
+    "n_subjects": 4,
+    "n_windows": 1410,
+    "fit_and_predict_seconds": 35.68781850700179,
+    "params": {
+      "model__C": 10,
+      "model__gamma": "scale"
+    }
+  },
+  {
+    "fold": 5,
+    "macro_f1": 0.9281062855295593,
+    "balanced_accuracy": 0.9298605209902036,
+    "n_subjects": 5,
+    "n_windows": 1685,
+    "fit_and_predict_seconds": 30.69933648300139,
+    "params": {
+      "model__C": 1,
+      "model__gamma": "scale"
+    }
+  }
+]

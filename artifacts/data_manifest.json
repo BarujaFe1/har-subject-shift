@@ -1,0 +1,15 @@
+{
+  "zip_bytes": 60999314,
+  "sha256": "2045e435c955214b38145fb5fa00776c72814f01b203fec405152dac7d5bfeb0",
+  "file_count": 63,
+  "uncompressed_bytes": 282568739,
+  "crc": "PASS",
+  "dataset_url": "https://archive.ics.uci.edu/static/public/240/human%2Bactivity%2Brecognition%2Busing%2Bsmartphones.zip",
+  "doi": "10.24432/C54S4K",
+  "fetched_utc": "2026-11-22T02:32:20.129683+00:00",
+  "extracted_file_bytes": 282560782,
+  "source": "primary UCI",
+  "license_dispute": "Portal CC BY 4.0; historical README disallows commercial use — unresolved",
+  "readme_sha256": "eaee53f45825f349681a1a1b92a997a0082648f9b5bf93ddb3290caeede4b3a8",
+  "readme_mentions_commercial_restriction": true
+}

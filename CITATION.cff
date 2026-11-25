@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: 'Please cite the original UCI HAR dataset when reusing this experiment.'
+title: 'HAR Subject Shift — Reproducible Research Protocol'
+type: software
+authors:
+  - family-names: Baruja
+    given-names: Felipe
+version: 0.1.0
+references:
+  - type: dataset
+    title: Human Activity Recognition Using Smartphones
+    doi: 10.24432/C54S4K
+    authors:
+      - family-names: Reyes-Ortiz
+        given-names: Jorge
+      - family-names: Anguita
+        given-names: Davide
